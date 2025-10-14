@@ -1,0 +1,23 @@
+{
+    "timePlayed": 36.65706253051758,
+    "totalEnemiesDefeated": 6,
+    "itemsCollected": 4,
+    "customEvents": [
+        "ItemCollected",
+        "EnemyDefeated",
+        "CheckpointReached",
+        "QuestStarted",
+        "QuestCompleted",
+        "PlayerLevelUp",
+        "PlayerDied",
+        "SecretFound",
+        "BossDefeated",
+        "ItemCollected",
+        "ItemCollected",
+        "ItemCollected",
+        "EnemyDefeated",
+        "EnemyDefeated",
+        "EnemyDefeated",
+        "EnemyDefeated"
+    ]
+}
