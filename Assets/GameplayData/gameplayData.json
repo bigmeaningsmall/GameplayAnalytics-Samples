@@ -1,0 +1,9 @@
+{
+    "timePlayed": 1.9919358491897584,
+    "totalEnemiesDefeated": 1,
+    "itemsCollected": 1,
+    "customEvents": [
+        "ItemCollected",
+        "EnemyDefeated"
+    ]
+}
