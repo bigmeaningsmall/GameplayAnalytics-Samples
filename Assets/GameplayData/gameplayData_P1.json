@@ -1,0 +1,19 @@
+{
+    "timePlayed": 3.5313057899475099,
+    "totalEnemiesDefeated": 3,
+    "itemsCollected": 1,
+    "testStat": 0,
+    "customEvents": [
+        "QuestCompleted",
+        "ItemCollected",
+        "QuestStarted",
+        "QuestCompleted",
+        "EnemyDefeated",
+        "QuestCompleted",
+        "EnemyDefeated",
+        "QuestCompleted",
+        "EnemyDefeated",
+        "PlayerLevelUp",
+        "PlayerLevelUp"
+    ]
+}
